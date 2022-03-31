@@ -1,3 +1,5 @@
+//test input file
+
 Bob Marley, 5, 3, 1, Planet1
 Nikola Tesla, 2, 2, 5, Planet2
 Leonard McCoy, 1, 5, 3, Planet3
